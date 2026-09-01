@@ -244,7 +244,7 @@
 - **Arabic:** Native
 - **French:** Bilingual / Professional Proficiency
 - **English:** Full Professional Proficiency
-- **German:** Elementary / Beginner (A1–A2)
+
 
 ### 🎨 Personal & Professional Interests
 - **Radio & Wireless Technology:** Telecommunication coverage modeling and propagation frequency analysis.
