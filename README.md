@@ -229,7 +229,6 @@
 
 | Certification / Badge | Provider | Key Skills & Focus | Issued |
 | :--- | :--- | :--- | :---: |
-
 | **AWS Academy Graduate – Machine Learning for Natural Language Processing** | Amazon Web Services (AWS) | NLP, ML, AI, Data Analysis, Feature Engineering | Aug 2026 |
 | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services (AWS) | Cloud Computing, Cloud Security, AWS Core Services | Jul 2026 |
 | **AWS Academy Graduate – Machine Learning Foundations** | Amazon Web Services (AWS) | Data Engineering, Data Analysis, ML Pipelines | Jul 2026 |
