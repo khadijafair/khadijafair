@@ -253,7 +253,7 @@
 
 
 ---
-## 📄 Curriculum Vitae
+## 📄 Curriculum 
 
 <div align="center">
 
@@ -263,6 +263,7 @@
 *Click the badge above to download my complete 2026/2027 Engineering CV.*
 
 </div>
+
 ---
 
 ## 📫 Connect & Socials
