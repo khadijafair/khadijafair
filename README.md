@@ -82,7 +82,6 @@
 | :--- | :--- | :--- |
 | **[VoIP Enterprise Infrastructure](#1-déploiement-dune-infrastructure-voip-complète)** | Telecom & Systems | `3CX IP-PBX` `SIP/RTP` `PoE` `Wireshark` |
 | **[Network QoS Evaluation](#2-évaluation-de-la-qualité-de-service-qos-réseaux)** | Networking & Traffic Analysis | `Wireshark` `iPerf` `NetFlow` `GNS3` |
-| **[Enterprise LAN/WAN Architecture](#3-architecture-réseau-lanwan--zine-capital-invest)** | Network Infrastructure | `Cisco Routers/Switches` `Firewalls` `SFP` |
 | **[2G/3G/4G Radio Propagation](#4-optimisation-de-propagation-radio--2g3g4g)** | Radio Telecom & GIS | `Radio Mobile` `QGIS` `GNU Octave` |
 | **[n8n OrderFlow Cloud Automation](#5-n8n-orderflow--cloud--workflow-automation)** | Systems & Automation | `Docker` `n8n` `PostgreSQL` `Supabase` |
 | **[Demand Forecasting Pipeline](#6-demand-forecasting--data-engineering-pipeline)** | Data Engineering & AI | `dbt` `PostgreSQL` `Prophet` `Power BI` |
@@ -123,19 +122,8 @@
 
 ---
 
-### 3. Architecture Réseau LAN/WAN — Zine Capital Invest
-*Site network topology mapping, active device inventorying, and physical layer analysis.*
 
-- **Technical Breakdown:** Structured enterprise network mapping across LAN/WAN segments. Performed cabling audits, optimized VLAN setups, configured core switches/routers, and tuned SFP fiber transceiver links alongside firewall access control policies.
-- **Tech Stack:**
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-  ![Networking](https://img.shields.io/badge/Topology-LAN%2FWAN-blue?style=flat-square)
-  ![Firewalls](https://img.shields.io/badge/Security-Firewalls-red?style=flat-square)
-<!--  🔗 **[Repository](https://github.com/khadijafair/lan-wan-architecture)** | **[Documentation](https://github.com/khadijafair/lan-wan-architecture#docs)** -->
-
----
-
-### 4. Optimisation de Propagation Radio — 2G/3G/4G
+### 3. Optimisation de Propagation Radio — 2G/3G/4G
 *Geospatial radio coverage optimization and signal propagation modeling on real-world terrain.*
 
 - **Technical Breakdown:** Simulated base station (eNB) site coverage and sector orientations in Radio Mobile and QGIS. Engineered GNU Octave data analysis scripts to calculate RSRP signal distributions and Cumulative Distribution Function (CDF) coverage metrics.
@@ -147,7 +135,7 @@
 
 ---
 
-### 5. n8n OrderFlow — Cloud & Workflow Automation
+### 4. n8n OrderFlow — Cloud & Workflow Automation
 *Automated containerized workflow system running on Docker for state management and webhooks.*
 
 - **Technical Breakdown:** Built a containerized `n8n` workflow service running in Docker. Automates transactional event processing, connects PostgreSQL/Supabase databases, and securely interfaces with external API webhooks for system event triggers.
@@ -160,7 +148,7 @@
 
 ---
 
-### 6. Demand Forecasting & Data Engineering Pipeline
+### 5. Demand Forecasting & Data Engineering Pipeline
 *Complete analytics engineering platform transforming raw data into predictive business intelligence.*
 
 - **Technical Breakdown:** Architected modular dbt staging layers and data marts over a PostgreSQL warehouse. Leveraged Facebook Prophet for weekly time-series demand forecasting and designed multi-page interactive Power BI dashboards for executive decision-making.
@@ -173,7 +161,7 @@
 
 ---
 
-### 7. Sentinel Security — Threat & Spam Detector
+### 6. Sentinel Security — Threat & Spam Detector
 *Hybrid email/message security verification tool with local AI evaluation.*
 
 - **Technical Breakdown:** Developed an incoming message threat classifier using TF-IDF vectorization and Linear SVM models served via FastAPI. Integrates an isolated secondary evaluation step powered by local LLMs (Ollama) to verify suspicious content.
@@ -186,7 +174,7 @@
  
 ---
 
-### 8. RESTful URL Shortener API
+### 7. RESTful URL Shortener API
 *Asynchronous backend API service built with automated test coverage and clean routing.*
 
 - **Technical Breakdown:** Asynchronous FastAPI web service with SQLAlchemy persistence, Pydantic schemas, dynamic link expiration logic, click stats, and an automated pytest test suite ready for deployment pipelines.
@@ -199,7 +187,7 @@
 
 ---
 
-### 9. Pneumonia Detection & Edge ML Deployment
+### 8. Pneumonia Detection & Edge ML Deployment
 *Binary CNN image classifier and cross-platform mobile/edge deployment pipeline.*
 
 - **Technical Breakdown:** Trained a Convolutional Neural Network achieving **>90% accuracy** on chest X-ray scans. Exported optimized weights via TensorFlow Lite (TFLite) and TensorFlow.js for low-latency, offline inference on native Android (Java/XML) and web interfaces.
@@ -212,7 +200,7 @@
 
 ---
 
-### 10. Sanaye3i — Mobile Service Marketplace
+### 9. Sanaye3i — Mobile Service Marketplace
 *Cross-platform mobile application connecting users with local service providers and home artisans.*
 
 - **Technical Breakdown:** Designed and built cross-platform mobile interfaces using React Native and Expo. Integrates Firebase authentication, real-time Firestore synchronization for service booking updates, and cloud messaging for instant notifications.
