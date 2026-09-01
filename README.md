@@ -104,7 +104,8 @@
   ![SIP/RTP](https://img.shields.io/badge/Protocol-SIP%2FRTP-blue?style=flat-square)
   ![Wireshark](https://img.shields.io/badge/Wireshark-167EC1?style=flat-square&logo=wireshark&logoColor=white)
   ![Ethernet/PoE](https://img.shields.io/badge/Hardware-PoE_Switches-grey?style=flat-square)
-- 🔗 **[Repository](https://github.com/khadijafair/voip-infrastructure-deployment)** | **[Architecture Report](https://github.com/khadijafair/voip-infrastructure-deployment#report)**
+  
+  <!-- 🔗 **[Repository](https://github.com/khadijafair/voip-infrastructure-deployment)** | **[Architecture Report](https://github.com/khadijafair/voip-infrastructure-deployment#report)** -->
 
 ---
 
@@ -118,7 +119,7 @@
   ![iPerf](https://img.shields.io/badge/Testing-iPerf3-green?style=flat-square)
   ![NetFlow](https://img.shields.io/badge/Monitoring-NetFlow-orange?style=flat-square)
   ![NetLimiter](https://img.shields.io/badge/Traffic_Control-NetLimiter-red?style=flat-square)
-- 🔗 **[Repository](https://github.com/khadijafair/telecom-qos-evaluation)** | **[Analysis Report](https://github.com/khadijafair/telecom-qos-evaluation#report)**
+<!-- 🔗 **[Repository](https://github.com/khadijafair/telecom-qos-evaluation)** | **[Analysis Report](https://github.com/khadijafair/telecom-qos-evaluation#report)** -->
 
 ---
 
@@ -130,7 +131,7 @@
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
   ![Networking](https://img.shields.io/badge/Topology-LAN%2FWAN-blue?style=flat-square)
   ![Firewalls](https://img.shields.io/badge/Security-Firewalls-red?style=flat-square)
-- 🔗 **[Repository](https://github.com/khadijafair/lan-wan-architecture)** | **[Documentation](https://github.com/khadijafair/lan-wan-architecture#docs)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/lan-wan-architecture)** | **[Documentation](https://github.com/khadijafair/lan-wan-architecture#docs)** -->
 
 ---
 
@@ -142,7 +143,7 @@
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
   ![GNU Octave](https://img.shields.io/badge/GNU_Octave-079104?style=flat-square&logo=gnuoctave&logoColor=white)
   ![Radio Mobile](https://img.shields.io/badge/Simulation-Radio_Mobile-blue?style=flat-square)
-- 🔗 **[Repository](https://github.com/khadijafair/radio-propagation-optimization)** | **[Simulation Report](https://github.com/khadijafair/radio-propagation-optimization#report)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/radio-propagation-optimization)** | **[Simulation Report](https://github.com/khadijafair/radio-propagation-optimization#report)**-->
 
 ---
 
@@ -155,7 +156,7 @@
   ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-- 🔗 **[Repository](https://github.com/khadijafair/n8n-orderflow)** | **[Live Demo](https://github.com/khadijafair/n8n-orderflow#demo)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/n8n-orderflow)** | **[Live Demo](https://github.com/khadijafair/n8n-orderflow#demo)** -->
 
 ---
 
@@ -168,7 +169,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- 🔗 **[Repository](https://github.com/khadijafair/demand-forecasting-pipeline)** | **[View Dashboards](https://github.com/khadijafair/demand-forecasting-pipeline#dashboards)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/demand-forecasting-pipeline)** | **[View Dashboards](https://github.com/khadijafair/demand-forecasting-pipeline#dashboards)** -->
 
 ---
 
@@ -181,8 +182,8 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-- 🔗 **[Repository](https://github.com/khadijafair/sentinel-security-detector)** | **[Live Demo](https://github.com/khadijafair/sentinel-security-detector#demo)**
-
+<!--  🔗 **[Repository](https://github.com/khadijafair/sentinel-security-detector)** | **[Live Demo](https://github.com/khadijafair/sentinel-security-detector#demo)** -->
+ 
 ---
 
 ### 8. RESTful URL Shortener API
@@ -194,7 +195,7 @@
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
   ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
   ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-- 🔗 **[Repository](https://github.com/khadijafair/url-shortener-api)** | **[API Docs](https://github.com/khadijafair/url-shortener-api#docs)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/url-shortener-api)** | **[API Docs](https://github.com/khadijafair/url-shortener-api#docs)** -->
 
 ---
 
@@ -207,7 +208,7 @@
   ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
   ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- 🔗 **[Repository](https://github.com/khadijafair/pneumonia-detection-edge)** | **[Live Demo](https://github.com/khadijafair/pneumonia-detection-edge#demo)**
+<!--  🔗 **[Repository](https://github.com/khadijafair/pneumonia-detection-edge)** | **[Live Demo](https://github.com/khadijafair/pneumonia-detection-edge#demo)** -->
 
 ---
 
@@ -219,7 +220,7 @@
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-- 🔗 **[Repository](https://github.com/khadijafair/sanaye3i-app)** | **[App Preview](https://github.com/khadijafair/sanaye3i-app#preview)**
+<!-- 🔗 **[Repository](https://github.com/khadijafair/sanaye3i-app)** | **[App Preview](https://github.com/khadijafair/sanaye3i-app#preview)** -->
 
 ---
 ## 📜 Certifications & Training Badges
