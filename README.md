@@ -1,130 +1,176 @@
 <div align="center">
 
-# Khadija Abdoune
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123C69,100:36B6C5&height=230&section=header&text=Khadija%20Abdoune&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20ENGINEERING%20%E2%80%A2%20CLOUD%20%26%20DEVOPS%20%E2%80%A2%20DATA%20ENGINEERING&descAlignY=61&descSize=15&animation=fadeIn" alt="Khadija Abdoune banner" />
 
-### IT Engineering Student | Network Automation · Cloud & DevOps · Data Engineering
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=36B6C5&center=true&vCenter=true&width=800&lines=Building+intelligent+and+reliable+infrastructure;Automating+networks%2C+cloud+and+data+workflows;Engineering+systems+from+design+to+observability" alt="Typing introduction" /></a>
 
-**ENSA El Jadida · Information & Communication Systems Engineering**
+<a href="https://linkedin.com/in/khadijaabdoune"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdounekhadija833@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/khadijafair"><img src="https://img.shields.io/badge/GitHub-Portfolio-151B2B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=61AFEF&center=true&vCenter=true&width=750&lines=Network+Engineering+%26+AIOps;Cloud+Infrastructure+%26+GitOps;Data+Engineering+%26+Analytics;Automation+%26+Reliable+Systems)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadijaabdoune)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdounekhadija833@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-khadijafair-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khadijafair)
+<br/><br/>
+<img src="https://img.shields.io/badge/ENSA-El%20Jadida-153B5C?style=flat-square" />
+<img src="https://img.shields.io/badge/Final--Year-IT%20Engineering-153B5C?style=flat-square" />
+<img src="https://img.shields.io/badge/PFE-Jan%20%2F%20Feb%202027-178C93?style=flat-square" />
 
 </div>
 
+## 01 / About me
+
+> **I build systems where infrastructure, automation and data meet.**
+
+Final-year **Information & Communication Systems Engineering** student at **ENSA El Jadida**, with hands-on projects in **network automation, AIOps, Kubernetes, GitOps and data platforms**. I enjoy taking systems beyond the prototype: designing architectures, validating their behavior and making them observable and reproducible.
+
+**Seeking:** a **6-month final-year internship (PFE), starting January/February 2027**, in **Cloud / DevOps, Network Automation / AIOps, or Data Engineering**.
+
 ---
 
-## About Me
+## 02 / Featured engineering projects
 
-I am a final-year IT engineering student at **ENSA El Jadida**, working at the intersection of **network infrastructure, cloud/DevOps, automation and data engineering**. I build practical systems that combine infrastructure configuration, observability, data processing and APIs.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am seeking a **six-month final-year internship (PFE) starting January/February 2027**, with an interest in **Network/Cloud Engineering, DevOps, AIOps and Data Engineering**.
+### 🌐 NetOps-AI
+**Network diagnostics & automated remediation**
 
-## Featured Engineering Projects
+<img src="https://img.shields.io/badge/NETWORK%20%2F%20AIOPS-0E7490?style=flat-square" /> <img src="https://img.shields.io/badge/Core%20lab%20implemented-1F6F59?style=flat-square" />
 
-### 1. NetOps-AI — Network Diagnostics & Automated Remediation
+GNS3 / FRRouting topology with **3 routers, 2 LANs and OSPF area 0**. Python state collection and diagnostic reports, plus **Ansible configuration backups, routing audits and recovery playbook**.
 
-**Network Engineering · Automation · AIOps**
+`GNS3` `FRRouting` `OSPF` `Python` `Ansible` `Linux`
 
-- Built a **GNS3/FRRouting lab** with three routers, two LANs and **OSPF area 0**, validating routing adjacency and end-to-end connectivity.
-- Developed Python network-state collection and diagnostic reporting, plus **Ansible configuration backups and OSPF audits**; implemented a recovery playbook and AIOps integration components.
-- **Stack:** `GNS3` `FRRouting` `OSPF` `Python` `Ansible` `Linux` `JSON`
+</td>
+<td width="50%" valign="top">
 
-> Development status: core network lab, diagnostics and Ansible auditing implemented. Additional monitoring, validation and automation capabilities are being consolidated.
+### ☁️ CloudOps GitOps
+**Kubernetes deployment & delivery platform**
 
-### 2. E-commerce Data Lakehouse — Bronze / Silver / Gold
+<img src="https://img.shields.io/badge/CLOUD%20%2F%20DEVOPS-2455A4?style=flat-square" /> <img src="https://img.shields.io/badge/In%20progress-B7791F?style=flat-square" />
 
-**Data Engineering · Analytics Engineering**
+Containerized **FastAPI service deployed to Kubernetes** with verified pod readiness and rollout. **GitOps and CI/CD integration are being developed**; not yet presented as a complete production platform.
 
-- Designed a local lakehouse using **Apache Iceberg on MinIO**, with **PySpark** transformations across Bronze, Silver and Gold layers for e-commerce customer, order and product data.
-- Integrated **Airflow, dbt, PostgreSQL and Docker**, producing curated Gold datasets and CSV exports for **Power BI** reporting.
-- **Stack:** `PySpark` `Apache Iceberg` `MinIO` `Airflow` `dbt` `PostgreSQL` `Docker` `Power BI`
+`Kubernetes` `Docker` `FastAPI` `Linux` `Git`
 
-### 3. CloudOps GitOps — Kubernetes Deployment Platform
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Cloud · DevOps · GitOps**
+### 🧊 E-commerce Lakehouse
+**Modern data platform · Bronze / Silver / Gold**
 
-- Deployed a containerized **FastAPI demonstration service on Kubernetes**, verifying pod readiness, service exposure and deployment rollout.
-- Developing the broader **GitOps and CI/CD workflow** around the Kubernetes environment; the platform is **in progress**, not presented as production-ready.
-- **Stack:** `Kubernetes` `Docker` `FastAPI` `Linux` `Git` · CI/CD and GitOps integration in progress
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-7354A6?style=flat-square" />
 
-### 4. OrderFlow — Event-Driven Workflow Automation
+**PySpark + Apache Iceberg on MinIO**, with Bronze/Silver/Gold transformations, Airflow orchestration, dbt, PostgreSQL and curated exports for Power BI.
 
-**Integration · Business Process Automation**
+`PySpark` `Iceberg` `MinIO` `Airflow` `dbt` `Power BI`
 
-- Built **n8n workflows** for e-commerce order processing, connecting webhooks, validation steps, payment/stock operations and notifications.
-- Integrated APIs and persistence services using **PostgreSQL/Supabase** in a Docker-based environment.
-- **Stack:** `n8n` `Docker` `REST APIs` `Webhooks` `PostgreSQL` `Supabase`
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ OrderFlow
+**Event-driven business workflow automation**
+
+<img src="https://img.shields.io/badge/AUTOMATION-986A20?style=flat-square" />
+
+Docker-based **n8n workflows** connecting webhooks, order validation, payment/stock steps, APIs, database persistence and notifications.
+
+`n8n` `Docker` `REST` `Webhooks` `PostgreSQL` `Supabase`
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>Additional projects</strong></summary>
+<summary><b>Explore additional projects — networking, security & software</b></summary>
+<br/>
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| Enterprise VoIP Infrastructure | IP telephony, SIP/RTP traffic analysis | 3CX, Wireshark, PoE |
-| Network QoS Evaluation | Throughput, latency and traffic analysis | GNS3, iPerf, Wireshark, NetFlow |
+| Project | Engineering focus | Main technologies |
+|:--|:--|:--|
+| Enterprise VoIP Infrastructure | IP telephony and SIP/RTP analysis | 3CX, Wireshark, PoE |
+| Network QoS Evaluation | Throughput, latency and traffic assessment | GNS3, iPerf, NetFlow, Wireshark |
 | Radio Propagation Modeling | 2G/3G/4G coverage and geospatial analysis | Radio Mobile, QGIS, GNU Octave |
-| Sentinel Security | Message classification and local LLM-assisted evaluation | FastAPI, Scikit-learn, Ollama |
-| HR Leave Management | Role-based enterprise application | Java, Spring Boot, Spring Security, MySQL |
-| URL Shortener API | REST API and automated testing | FastAPI, SQLAlchemy, Pydantic, pytest |
+| Sentinel Security | Message classification and local AI evaluation | FastAPI, Scikit-learn, Ollama |
+| HR Leave Management | Role-based enterprise web application | Spring Boot, Spring Security, MySQL |
+| URL Shortener API | REST API, persistence and testing | FastAPI, SQLAlchemy, pytest |
 | Sanaye3i | Cross-platform service marketplace | React Native, Expo, Firebase |
 
 </details>
 
 ---
 
-## Professional Experience
+## 03 / Engineering toolbox
 
-### Data Engineering & AI Intern — Dalia Group
-**July – August 2026**
+<div align="center">
 
-*End-to-End Data Platform for Commercial Analytics & Demand Forecasting*
+**Infrastructure · Cloud · DevOps**
 
-- Implemented configurable ingestion and transformation workflows for **Microsoft Dynamics ERP extracts**, with PostgreSQL and **dbt data models and 47+ tests**.
-- Worked on sales forecasting and anomaly analysis using **Prophet**, and integrated **FastAPI, Streamlit, Grafana, n8n and local Ollama-assisted data mapping**.
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,githubactions,ansible,bash&theme=dark" alt="Infrastructure and DevOps stack" />
 
-### Network Intern — Zine Capital Invest
-**July 2025**
+**Data Engineering · AI · Observability**
 
-- Documented the organization's LAN/WAN topology and inventoried network equipment, including switches, routers and firewalls.
-- Analyzed cabling and infrastructure organization as part of a technical network assessment.
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,tensorflow,grafana,prometheus&theme=dark" alt="Data and monitoring stack" />
+
+**APIs · Software Engineering**
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,java,postman,react,flutter&theme=dark" alt="Software engineering stack" />
+
+</div>
+
+| Area | Technologies & practices |
+|:--|:--|
+| **Networks & security** | TCP/IP, VLAN, OSPF, GNS3, FRRouting, Wireshark, SIP/RTP, QoS, network auditing |
+| **Cloud & automation** | AWS, Docker, Kubernetes, Ansible, GitHub Actions, Linux, n8n, REST/webhooks |
+| **Data platforms** | PySpark, Apache Iceberg, MinIO, Airflow, dbt, PostgreSQL, ETL/ELT, Power BI |
+| **AI & monitoring** | Scikit-learn, TensorFlow, Prophet, Ollama, Grafana, Prometheus |
 
 ---
 
-## Technical Stack
+## 04 / Professional experience
 
-| Area | Technologies |
-| --- | --- |
-| **Networking & Systems** | TCP/IP, VLAN, OSPF, SIP/RTP, Wireshark, GNS3, FRRouting, Linux, Windows Server |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, Ansible, Git, GitHub Actions, Linux, n8n |
-| **Observability** | Prometheus, Grafana, network-state collection and diagnostics |
-| **Data Engineering** | Python, SQL, PySpark, Airflow, dbt, Apache Iceberg, MinIO, PostgreSQL |
-| **AI & Analytics** | Scikit-learn, TensorFlow, Prophet, Pandas, NumPy, Ollama, Power BI |
-| **Backend & Integration** | FastAPI, REST APIs, Webhooks, SQLAlchemy, Spring Boot, MySQL |
+<table>
+<tr><td width="26%" valign="top"><b>Jul – Aug 2026</b><br/><sub>Data Engineering / AI</sub></td><td valign="top"><b>Dalia Group</b><br/>Developed configurable ingestion and analytics pipelines for Microsoft Dynamics ERP extracts, with <b>PostgreSQL and 47+ dbt tests</b>. Worked on demand forecasting with Prophet and integrations using FastAPI, Streamlit, n8n, Grafana and Ollama.</td></tr>
+<tr><td valign="top"><b>Jul 2025</b><br/><sub>Network Infrastructure</sub></td><td valign="top"><b>Zine Capital Invest</b><br/>Documented LAN/WAN architecture and inventoried switches, routers, firewalls and cabling infrastructure.</td></tr>
+</table>
 
-## Training & Certifications
+---
 
-- **AWS Academy — Cloud Architecting**
-- **AWS Academy — Machine Learning for Natural Language Processing**
-- **AWS Academy — Cloud Foundations**
-- **Microsoft — Active Directory Domain Services (AD DS)**
+## 05 / Education & credentials
 
-*Additional IBM Data and Microsoft Azure Data training is ongoing; these are not listed as completed certifications.*
+**ENSA El Jadida** — State Engineering Degree, Information & Communication Systems Engineering · *Expected graduation: 2027*
 
-## Languages
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/AWS%20Academy-ML%20for%20NLP-232F3E?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=flat-square&logo=amazonaws" />
 
-**Arabic:** Native · **French:** Professional proficiency · **English:** Professional proficiency
+<sub>Additional coursework and credentials available on LinkedIn. Badges above indicate training; they do not imply AWS professional certification.</sub>
+
+---
+
+## 06 / GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijafair&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijafair&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used repository languages" />
+
+<sub>These widgets depend on third-party services and public GitHub repository data.</sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Let's connect
 
-Interested in network automation, cloud platforms, reliable infrastructure or data engineering? Feel free to reach out.
+**Open to PFE opportunities in France and Morocco · January / February 2027**
 
-[LinkedIn](https://linkedin.com/in/khadijaabdoune) · [Email](mailto:abdounekhadija833@gmail.com) · [GitHub](https://github.com/khadijafair)
+<a href="https://linkedin.com/in/khadijaabdoune"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdounekhadija833@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123C69,100:36B6C5&height=105&section=footer" alt="Footer" />
 
 </div>
