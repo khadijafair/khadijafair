@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123C69,100:36B6C5&height=230&section=header&text=Khadija%20Abdoune&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20ENGINEERING%20%E2%80%A2%20CLOUD%20%26%20DEVOPS%20%E2%80%A2%20DATA%20ENGINEERING&descAlignY=61&descSize=15&animation=fadeIn" alt="Khadija Abdoune banner" />
+<img width="100%" src="./assets/github-banner.svg" alt="Khadija Abdoune — Engineering Portfolio" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=36B6C5&center=true&vCenter=true&width=800&lines=Building+intelligent+and+reliable+infrastructure;Automating+networks%2C+cloud+and+data+workflows;Engineering+systems+from+design+to+observability" alt="Typing introduction" /></a>
 
