@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/github-banner.svg" alt="Khadija Abdoune — Engineering Portfolio" />
+<img width="100%" src="./github-banner.svg" alt="Khadija Abdoune — Engineering Portfolio" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=36B6C5&center=true&vCenter=true&width=800&lines=Building+intelligent+and+reliable+infrastructure;Automating+networks%2C+cloud+and+data+workflows;Engineering+systems+from+design+to+observability" alt="Typing introduction" /></a>
 
